@@ -10,6 +10,6 @@ This is an experimental API testing report that was created in Postman, with HTM
 
 ![html report](https://github.com/SaidulHaq/Postman-ApiTestingReport/blob/main/API%20Testing%20Report.jpg)
 
-![html report](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![html report](https://github.com/SaidulHaq/Postman-ApiTestingReport/blob/main/API%20Testing%20Report%202.jpg)
 
 
